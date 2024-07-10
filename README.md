@@ -12,5 +12,7 @@ To achieve this, a method generating simple images will be built that describe t
 The Simulated Annealing optimization algorithm will then be used to search for parameters that maximize the activation of each neuron. 
 Finally, a set of tools for sorting and classifying the neurons of each layer of the VGG-16 network will be defined based on the parameters found with the algorithms defined above. 
 
-This understanding can not only improve the design of future networks, but also increase confidence in their practical applications.\\\\
-\textbf{Keywords:} Xarxes Neuronals Convolucionals, paràmetres, CNN, activació, sigmoide, gaussiana, Simulated Annealing, VGG-16.\\
+This understanding can not only improve the design of future networks, but also increase confidence in their practical applications.
+
+
+Keywords: Xarxes Neuronals Convolucionals, paràmetres, CNN, activació, sigmoide, gaussiana, Simulated Annealing, VGG-16.
