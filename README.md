@@ -15,4 +15,4 @@ Finally, a set of tools for sorting and classifying the neurons of each layer of
 This understanding can not only improve the design of future networks, but also increase confidence in their practical applications.
 
 
-Keywords: Xarxes Neuronals Convolucionals, paràmetres, CNN, activació, sigmoide, gaussiana, Simulated Annealing, VGG-16.
+Keywords: Convolutional Neural Networks, parameters, CNN, activation, sigmoid, gaussian, Simulated Annealing, VGG-16.
